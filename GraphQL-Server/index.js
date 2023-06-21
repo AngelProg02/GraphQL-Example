@@ -4,10 +4,10 @@ import axios from "axios";
 
 const persons = [
   {
-    name: "Ángel",
-    phone: "611454192",
-    street: "Muñoz Seca",
-    city: "Los Palacios",
+    name: "Ángel Luis",
+    phone: "656298478",
+    street: "Rafael Alberti",
+    city: "Seville",
     id: "1",
   },
   {

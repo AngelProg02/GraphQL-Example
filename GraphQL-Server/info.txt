@@ -9,8 +9,6 @@ probar las rest apis
 
 axios para queries en el server
 
-npm init @vitejs/app react-graphql -- --template reacty
+npm init vite
 
--- relay.dev (Utilizado por facebook)
-
---
+-- relay.dev (Facebook's GraphQL Client)

@@ -1,0 +1,24 @@
+{
+  "persons": [
+    {
+      "name": "Ángel Luis",
+      "phone": "656298478",
+      "street": "Muñoz Seca",
+      "city": "Los Palacios",
+      "id": "1"
+    },
+    {
+      "name": "John",
+      "phone": "987654321",
+      "street": "Elm Street",
+      "city": "Birmingham",
+      "id": "2"
+    },
+    {
+      "name": "Luisa",
+      "street": "Rua das Flores",
+      "city": "Portugal",
+      "id": "3"
+    }
+  ]
+}

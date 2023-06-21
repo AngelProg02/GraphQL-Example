@@ -1,0 +1,10 @@
+install apollo-server graphql
+
+las dos dependeencias que necesitamos
+
+install uuid --> Da un identificador único
+
+json-server --> Te hace un backend para poder
+probar las rest apis
+
+axios para queries en el server

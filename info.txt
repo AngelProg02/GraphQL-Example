@@ -12,3 +12,5 @@ axios para queries en el server
 npm init @vitejs/app react-graphql -- --template reacty
 
 -- relay.dev (Utilizado por facebook)
+
+--
